@@ -428,7 +428,7 @@ def main():
                     st.error(f"❌ {message}")
                     return
                 
-                st.image(uploaded_file, caption='Uploaded X-ray Image', use_container_width=True)
+                st.image(uploaded_file, caption='Uploaded X-ray Image')  # Without 'use_container_width'
                 
                 if st.button('🔍 Analyze X-ray', type='primary', key="xray_analyze"):
                     if not anthropic_client:
