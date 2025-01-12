@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Authors
-- Your Name - *Initial work* - [Your GitHub Profile](https://github.com/Rohitmengji)
+- Rohit Mengji - *Initial work* - [Your GitHub Profile](https://github.com/Rohitmengji)
 
 ## 🙏 Acknowledgments
 - Anthropic for Claude AI
